@@ -264,6 +264,7 @@
         "https://nouveau-europresse-com.ressources-electroniques.univ-lille.fr/*",
         "https://nouveau-europresse-com.acces-distant.sciencespo.fr/*",
         "https://nouveau-europresse-com.ressources.univ-poitiers.fr/*",
+	"https://nouveau-europresse-com.ressources.univ-poitiers.fr/*",
         "https://nouveau-europresse-com.bibelec.univ-lyon2.fr/*",
         "https://nouveau-europresse-com.gorgone.univ-toulouse.fr/*"
       ],
@@ -388,6 +389,10 @@
           "AUTH_URL": "https://rproxy.univ-pau.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=uppaT_2"
         },
         {
+          "name": "Université de Poitiers",
+          "AUTH_URL": "http://ressources.univ-poitiers.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=U032521T_1"
+        },
+	{
           "name": "Université de Poitiers",
           "AUTH_URL": "http://ressources.univ-poitiers.fr/login?url=https://nouveau.europresse.com/access/ip/default.aspx?un=U032521T_1"
         },
